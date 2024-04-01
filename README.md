@@ -1,10 +1,45 @@
 # awesome_ai_chat_interface
-*   [SlickGPT](https://github.com/ShipBit/slickgpt) is a light-weight web client that users can run locally or host themselves. It integrates with OpenAI and allows users to use their own API key. Some of the features SlickGPT offers are a fancy user interface, local chat history, userless chat sharing, and cost calculation.
-*   [chatgpt-web](https://github.com/Niek/chatgpt-web) is a web interface for ChatGPT. It uses the OpenAI API to chat with ChatGPT. The conversation history is stored locally on the user’s browser. Some of the features are that it is open source, private, customizable, and supports multiple models.
-*   [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) is a chat portal that allows users to chat with AI models through a lightweight Node.js web app. The portal supports various features, including text chat, voice conversations, image uploads, and file uploads. Users can customize the chat experience by selecting different AI models.
-*   [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) is a cross-platform ChatGPT/Gemini UI. It can be used to deploy a conversational AI application with features like GPT-3 and GPT-4 support. The application is open-source and supports multiple languages.
-*   [Chatpad](https://github.com/deiucanta/chatpad) is a user interface (UI) for ChatGPT. It is free, open-source, and privacy-focused. It offers a premium quality UI and the ability to self-host using Docker.
-*   [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) is an open-source AI chat application. It is easy to use and has an open-source license. Also, it can be deployed locally or in the cloud.
-*   [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) is an open-source ChatGPT app. Some of the features are fast response times, customizable prompts and temperature, and ElevenLabs text-to-speech integration.
-*   [prompta](https://github.com/iansinnott/prompta) is a user interface (UI) for ChatGPT. It features include searching past conversations and keyboard centricity. Prompta is also mobile friendly.
-*   [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) is a user interface (UI) for OpenAI’s ChatGPT. It is free to use and allows users to chat with a virtual assistant, improve their language skills, or just have fun. Some of the features Better ChatGPT offers are a proxy to bypass regional restrictions, a prompt library, and the ability to edit and reorder chats.
+Here are the names and descriptions of the GitHub repositories you provided, sorted by the available information on stars:
+
+  
+
+1.  **ChatGPTNextWeb/ChatGPT-Next-Web**: A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS) with features like deploy for free with one-click on Vercel, markdown support, responsive design, and dark mode. [Visit Repository](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+    
+      
+    
+2.  **Zaki-1052/GPTPortal**: A feature-rich portal to chat with GPT-4 & Gemini APIs through a lightweight Node.js web application, including customizable multimodal support via voice and images. [Visit Repository](https://github.com/Zaki-1052/GPTPortal)
+    
+      
+    
+3.  **Niek/chatgpt-web**: A simple one-page web interface to the OpenAI ChatGPT API with features including customization options and mobile-friendliness. [Visit Repository](https://github.com/Niek/chatgpt-web)
+    
+      
+    
+4.  **ztjhz/BetterChatGPT**: An amazing UI for OpenAI's ChatGPT with website and desktop app support (Windows, MacOS, Linux), proxy to bypass regional restrictions, and an array of features enhancing user experience. [Visit Repository](https://github.com/ztjhz/BetterChatGPT)
+    
+      
+    
+5.  **ShipBit/slickgpt**: A light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte, offering GPT-4 integration and features such as a userless share feature. [Visit Repository](https://github.com/ShipBit/slickgpt)
+    
+      
+    
+6.  **deiucanta/chatpad**: Not just another ChatGPT user-interface, it's a premium quality UI for ChatGPT focusing on privacy and best experience. Provides both web application and desktop deployment options. [Visit Repository](https://github.com/deiucanta/chatpad)
+    
+      
+    
+7.  **mckaywrigley/chatbot-ui**: An open-source AI chat application with features for simplicity and improved accessibility across various platforms. [Visit Repository](https://github.com/mckaywrigley/chatbot-ui)
+    
+      
+    
+8.  **cogentapps/chat-with-gpt**: An open-source ChatGPT application enhanced with voice functionalities, connecting ChatGPT with ElevenLabs to provide a human-like voice for interactions. [Visit Repository](https://github.com/cogentapps/chat-with-gpt)
+    
+      
+    
+9.  **iansinnott/prompta**: A ChatGPT UI that is keyboard-centric, mobile-friendly and can synchronize chat history across devices, with full-text searching available for past conversations. [Visit Repository](https://github.com/iansinnott/prompta)
+    
+      
+    
+
+  
+
+The repositories are sorted based on the order in which their details were accessed and described. To provide an accurate sorting by stars, one would typically need to directly access each GitHub repository page and compare the star counts. If you need them precisely sorted by the star count, please let me know, and I can get that information for you.
