@@ -1,0 +1,2 @@
+I'd like to share some GitHub repositories with you.  Could you provide a summary of each one's name and description? If possible, it would be great if you could also sort them by popularity (number of stars).
+https://github.com/ShipBit/slickgpt,https://github.com/Niek/chatgpt-web,https://github.com/Zaki-1052/GPTPortal,https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web,https://github.com/deiucanta/chatpad,https://github.com/mckaywrigley/chatbot-ui,https://github.com/cogentapps/chat-with-gpt,https://github.com/iansinnott/prompta,https://github.com/ztjhz/BetterChatGPT
